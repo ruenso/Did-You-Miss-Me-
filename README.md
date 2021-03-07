@@ -16,4 +16,8 @@ Did You Miss Me??? is a simple Windows Os virus which is written in c++ and VBS,
 *********************************************************************************************************
 *********************************************************************************************************
 
-
+#Installation
+1: 
+      Just Download and send Did You Miss Me.exe to the target, and wait till they run it.
+2:
+      Download main.cpp build it send the *.exe to the target, and wait till they run it.
